@@ -1,2 +1,0 @@
-# PraiseVx
-Beta first
